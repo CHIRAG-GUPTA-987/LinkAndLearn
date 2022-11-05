@@ -1,6 +1,7 @@
 @import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@700&display=swap');
 .seniors{
     box-shadow: 10px 10px 5px #F3F5FA;
+    margin-bottom: 20px;
 }
 #team{
     background-color: white !important;
@@ -28,7 +29,13 @@ h4{
 
 .heading{
     display: flex;
-    margin-top: 15px;
+    margin-top: 95px;
     justify-content: center;
     font-family: 'Montserrat', sans-serif;
+}
+
+#header{
+    /* visibility: hidden; */
+    /* display: block; */
+    position: absolute;
 }
